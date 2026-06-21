@@ -7,6 +7,8 @@ Building distributed systems and cloud-native applications with a focus on autom
 maintainability, and engineering excellence.
 </p>
 
+[![An image of @mtaghavi2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mtaghavi2005)](https://holopin.io/@mtaghavi2005)
+
 ## 🧑‍💻 Tech I Enjoy
 
 .NET · ASP.NET Core · Azure · Kubernetes · Docker · Dapr · RabbitMQ · Camunda · Java · Angular
@@ -23,5 +25,3 @@ AI-assisted software development and developer productivity.
 
 * LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mmtaghavi/)
 * Email: [mtaghavi2005@gmail.com](mailto:mtaghavi2005@gmail.com)
-
-[![An image of @mtaghavi2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mtaghavi2005)](https://holopin.io/@mtaghavi2005)
