@@ -1,45 +1,27 @@
-# Mohammad Taghavi
+<h1>Mohammad Moeen Taghavi</h1>
 
-Software Engineer passionate about building distributed systems, cloud-native applications, and scalable backend platforms.
+<p><b>Software Engineer at ZEISS</b></p>
 
-## Tech I Enjoy Working With
+<p>
+Building distributed systems and cloud-native applications with a focus on automation,
+maintainability, and engineering excellence.
+</p>
 
-* C# / .NET
-* ASP.NET Core
-* Azure
-* Kubernetes
-* Docker
-* Dapr
-* RabbitMQ
-* Camunda / Zeebe
-* Java & Quarkus
-* JavaScript (Angular)
+## 🧑‍💻 Tech I Enjoy
 
-## Areas of Interest
+.NET · ASP.NET Core · Azure · Kubernetes · Docker · Dapr · RabbitMQ · Camunda · Java · Angular
 
-* Distributed Systems
-* Event-Driven Architecture
-* Domain-Driven Design
-* Cloud Platforms
-* DevOps & Automation
-* Software Architecture
+## 🎯 Areas of Interest
 
-## A Few Facts
+Distributed Systems · Event-Driven Architecture · Domain-Driven Design · Cloud Platforms · DevOps · Software Architecture
 
-* 20+ years in software development
-* Experience across ERP, CMS, BPM, and enterprise platforms
-* Building cloud-native solutions since before they became fashionable
-* Strong believer in simplicity, automation, and continuous learning
-
-## Currently Exploring
+## 🚀 Currently Exploring
 
 AI-assisted software development and developer productivity.
 
-## Connect
+## 🤝 Connect
 
 * LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mmtaghavi/)
 * Email: [mtaghavi2005@gmail.com](mailto:mtaghavi2005@gmail.com)
-
-> "Build software that remains understandable five years later."
 
 [![An image of @mtaghavi2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mtaghavi2005)](https://holopin.io/@mtaghavi2005)
