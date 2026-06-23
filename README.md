@@ -1,4 +1,4 @@
-<h1>Mohammad Moeen Taghavi</h1>
+<h1>Mohammad Taghavi</h1>
 
 <p><b>Software Engineer at ZEISS</b></p>
 
